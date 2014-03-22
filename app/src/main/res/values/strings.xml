@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ViewPager and PreferenceActivity demo</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+    <string name="action_settings">Settings</string>
+    <string name="inline_preferences">Inline preferences</string>
+    <string name="title_checkbox_preference">Checkbox preference</string>
+    <string name="summary_checkbox_preference">checkbox preference summary</string>
+    <string name="dialog_based_preferences">Dialog based preference</string>
+    <string name="title_edittext_preference">edit text preference</string>
+    <string name="summary_edittext_preference">summary</string>
+    <string name="dialog_title_edittext_preference">dialog title</string>
+    <string name="title_list_preference">title</string>
+    <string name="summary_list_preference">summary</string>
+    <string name="dialog_title_list_preference">dialog title</string>
+    <string name="launch_preferences">launch preferences</string>
+    <string name="title_screen_preference">screen title</string>
+    <string name="summary_screen_preference">summary</string>
+    <string name="title_next_screen_toggle_preference">toggle preferences</string>
+    <string name="summary_next_screen_toggle_preference">summary</string>
+    <string name="title_intent_preference">intent title</string>
+    <string name="summary_intent_preference">summary</string>
+    <string name="preference_attributes">attributes</string>
+    <string name="title_parent_preference">title</string>
+    <string name="summary_parent_preference">summary</string>
+    <string name="title_child_preference">xxx</string>
+    <string name="summary_child_preference">summary</string>
+    <string name="settings">Settings</string>
+
+</resources>
